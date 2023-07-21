@@ -71,5 +71,6 @@ $ tree
 ```
 
 ### Result
+We achieved the state-of-the art on ME Dastset and SICE Dataset.
 ![sample](figures/Result2.png)
 
