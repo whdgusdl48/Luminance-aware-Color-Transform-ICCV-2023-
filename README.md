@@ -37,7 +37,7 @@ multi_exposure/
   multi_adobe5k-test.json
 ```
 
-## Expected dataset structure for [SICE](https://www.cityscapes-dataset.com/downloads/):
+## Expected dataset structure for SICE:
 ```
 cityscapes/
   sice_middle/
