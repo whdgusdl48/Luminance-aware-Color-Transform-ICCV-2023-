@@ -71,5 +71,5 @@ $ tree
 ```
 
 ### Result
-![sample](https://github.com/whdgusdl48/LACT/blob/main/figures/Result2.png)
+![sample](figures/Result2.png)
 
