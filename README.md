@@ -18,14 +18,14 @@ conda activate lact
 conda install tensorflow==2.5.0
 pip install -U opencv-python
 
-# Prepare Datasets for Mask2Former
+# Prepare Datasets for LACT
 
 $DATASETS/
   multi_exposure/
   SICE/
 ```
 
-## Expected dataset structure for [multi_exposure]:
+## Expected dataset structure for [multi_exposure](https://github.com/mahmoudnafifi/Exposure_Correction):
 
 ```
 multi_exposure/
