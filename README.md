@@ -14,7 +14,7 @@ Supplementary paper will be update!
 
 ### Requirements
 - Linux or macOS with Python ≥ 3.6
-- tensorflow ≥ 2.5 and [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch 
+- tensorflow ≥ 2.5 
 - OpenCV is optional but needed by demo and visualization
 - scikit-learn is need to save image file
 
