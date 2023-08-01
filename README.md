@@ -1,5 +1,7 @@
 # LACT : Luminance-aware Color Transform for Multiple Exposure Correction
 
+![sample](figures/Result_image.png)
+
 ## Introduction
 This repo is the official Code of  Luminance-aware Color Transform for Multiple Exposure Correction (**ICCV 2023**). 
 
