@@ -2,6 +2,7 @@
 
 ## Introduction
 This repo is the official Code of  Luminance-aware Color Transform for Multiple Exposure Correction (**ICCV 2023**). 
+Supplementary paper will be update!
 
 ## Qualitative Result on ME Dataset
 ![sample](figures/Result_image.png)
