@@ -1,5 +1,6 @@
 # LACT : Luminance-aware Color Transform for Multiple Exposure Correction
 
+## Qualitative Result on ME Dataset
 ![sample](figures/Result_image.png)
 
 ## Introduction
