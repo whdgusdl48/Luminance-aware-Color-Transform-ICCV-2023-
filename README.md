@@ -7,7 +7,7 @@ This repo is the official Code of  Luminance-aware Color Transform for Multiple 
 ![sample](figures/Result_image.png)
 
 ## Qualitative Result on SICE Dataset
-![sample](figures/Result_image2.png)
+![sample2](figures/Result_image2.png)
 
 ## Installation
 
