@@ -1,12 +1,13 @@
 # LACT : Luminance-aware Color Transform for Multiple Exposure Correction
 
-## Qualitative Result on ME Dataset
-![sample](figures/Result_image.png)
-
 ## Introduction
 This repo is the official Code of  Luminance-aware Color Transform for Multiple Exposure Correction (**ICCV 2023**). 
 
-The details of code will be released.
+## Qualitative Result on ME Dataset
+![sample](figures/Result_image.png)
+
+## Qualitative Result on SICE Dataset
+![sample](figures/Result_image2.png)
 
 ## Installation
 
