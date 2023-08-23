@@ -11,7 +11,7 @@ Supplementary paper will be update!
 ![sample2](figures/Result_image2.png)
 
 ## Installation
-
+We recommend you to use an Anaconda virtual environment and memory of GPU RAM 24G.
 ### Requirements
 - Linux or macOS with Python ≥ 3.6
 - tensorflow ≥ 2.5 
