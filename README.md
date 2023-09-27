@@ -2,8 +2,6 @@
 
 ## Introduction
 This repo is the official Code of  Luminance-aware Color Transform for Multiple Exposure Correction (**ICCV 2023**). 
-[paper]([https://github.com/mahmoudnafifi/Exposure_Correction](https://openaccess.thecvf.com/content/ICCV2023/papers/Baek_Luminance-aware_Color_Transform_for_Multiple_Exposure_Correction_ICCV_2023_paper.pdf))
-
 
 Supplementary paper will be update!
 
