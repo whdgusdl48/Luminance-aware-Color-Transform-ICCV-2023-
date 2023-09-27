@@ -81,3 +81,16 @@ $ tree
 We achieved the state-of-the art on ME Dastset and SICE Dataset.
 ![sample](figures/Result2.png)
 
+
+### bibtex
+'''
+@InProceedings{Baek_2023_ICCV,
+    author    = {Baek, Jong-Hyeon and Kim, DaeHyun and Choi, Su-Min and Lee, Hyo-jun and Kim, Hanul and Koh, Yeong Jun},
+    title     = {Luminance-aware Color Transform for Multiple Exposure Correction},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {6156-6165}
+}
+'''
+
