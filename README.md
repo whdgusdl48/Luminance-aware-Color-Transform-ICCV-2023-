@@ -83,6 +83,13 @@ We achieved the state-of-the art on ME Dastset and SICE Dataset.
 ![sample](figures/Result2.png)
 
 
+### Model Output
+You can access the results for the dataset via the link below.
+
+Keep in mind that there are five exposure levels for a sequence: 0, N1.5, N1, P1.5, and P1.
+
+ME Dataset : https://drive.google.com/file/d/13yprihRtu4d6Leb2nPUGvuW1qz671q5X/view?usp=sharing
+
 ### bibtex
 ```
 @InProceedings{Baek_2023_ICCV,
