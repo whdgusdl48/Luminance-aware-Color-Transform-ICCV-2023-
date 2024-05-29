@@ -90,6 +90,13 @@ Keep in mind that there are five exposure levels for a sequence: 0, N1.5, N1, P1
 
 ME Dataset : https://drive.google.com/file/d/13yprihRtu4d6Leb2nPUGvuW1qz671q5X/view?usp=sharing
 
+### Pretrained model weight
+
+You can access the pretrained model weight via the link below
+
+https://drive.google.com/drive/folders/1JoHHxeDyxzJlOPR5pkqUKmNuBl5oDNu4?usp=sharing
+
+
 ### bibtex
 ```
 @InProceedings{Baek_2023_ICCV,
